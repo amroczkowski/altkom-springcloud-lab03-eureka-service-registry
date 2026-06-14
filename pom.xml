@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.altkom.springcloud.lab03.eureka</groupId>
-	<artifactId>service-registry</artifactId>
+	<artifactId>lab03-service-registry</artifactId>
 	<version>1.0.0</version>
 	<name>service-registry</name>
 	<description>Service Registry</description>
